@@ -24,19 +24,6 @@
         <url>http://github.com/Steveice10/OpenNBT/</url>
     </scm>
 
-    <distributionManagement>
-        <repository>
-            <id>spacehq</id>
-            <name>spacehq-releases</name>
-            <url>http://repo.spacehq.org/content/repositories/release/</url>
-        </repository>
-        <snapshotRepository>
-            <id>spacehq</id>
-            <name>spacehq-snapshots</name>
-            <url>http://repo.spacehq.org/content/repositories/snapshots/</url>
-        </snapshotRepository>
-    </distributionManagement>
-
     <developers>
         <developer>
             <id>steveice10</id>
